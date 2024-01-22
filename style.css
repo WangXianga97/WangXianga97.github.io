@@ -1,0 +1,51 @@
+a {
+    color: goldenrod;
+}
+
+p {
+    color: rgb(6, 4, 0);
+    width: auto;
+    border: 1px solid white;
+}
+
+html {
+    font-size: 12px;
+    font-family: 'Lato', sans-serif;
+    background-color: rgb(119, 94, 114)
+}
+
+h1 {
+    font-size: 25px;
+    text-align: center;
+  }
+
+h3 {
+  font-size: auto;
+  text-align: center;
+}
+
+p,
+li {
+    font-size: 15px;
+    line-height: 2;
+    letter-spacing: 1px;
+  }
+
+body {
+    width: auto;
+    margin: 0 auto;
+    background-color: #faf8fa;
+    padding: 0 200px 20px 20px;
+    border: 5px solid rgb(235, 228, 228);
+  }
+
+img {
+    display: block;
+    margin: 0 auto;
+  }
+
+h3 {
+    text-align: center;
+}
+  
+  
